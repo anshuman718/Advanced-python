@@ -1,0 +1,1 @@
+# Do practice set of ch 11 and complete ch 12 and 13 along with practice set of both the chapters.Also do ai voice project 

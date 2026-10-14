@@ -1,0 +1,2 @@
+#python -m http.server --bind=localhost 
+#write in powershell after clicking shift and right clicking in the folder where your HTTP server.py file is located. This command will start a simple HTTP server that serves files from the current directory on localhost. You can then access it in your web browser by navigating to http://localhost:8000.
